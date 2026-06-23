@@ -6,9 +6,11 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
