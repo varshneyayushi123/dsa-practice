@@ -56,6 +56,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/varshneyayushi123/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/varshneyayushi123/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
