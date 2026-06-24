@@ -14,6 +14,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/varshneyayushi123/dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varshneyayushi123/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -40,6 +41,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/varshneyayushi123/dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/varshneyayushi123/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
