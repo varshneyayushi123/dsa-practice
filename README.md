@@ -13,6 +13,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1920-build-array-from-permutation](https://github.com/varshneyayushi123/dsa-practice/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,8 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | ------- |
 | [0069-sqrtx](https://github.com/varshneyayushi123/dsa-practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/varshneyayushi123/dsa-practice/tree/master/0367-valid-perfect-square) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/varshneyayushi123/dsa-practice/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
