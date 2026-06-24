@@ -10,6 +10,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0035-search-insert-position](https://github.com/varshneyayushi123/dsa-practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0069-sqrtx](https://github.com/varshneyayushi123/dsa-practice/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
