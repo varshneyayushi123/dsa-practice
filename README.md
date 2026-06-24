@@ -14,6 +14,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/varshneyayushi123/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/varshneyayushi123/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -42,4 +43,8 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/varshneyayushi123/dsa-practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
