@@ -13,6 +13,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyayushi123/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyayushi123/dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varshneyayushi123/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -33,6 +34,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyayushi123/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyayushi123/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/varshneyayushi123/dsa-practice/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
