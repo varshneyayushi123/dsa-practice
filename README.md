@@ -9,6 +9,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0033-search-in-rotated-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshneyayushi123/dsa-practice/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/varshneyayushi123/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/varshneyayushi123/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
