@@ -14,6 +14,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0287-find-the-duplicate-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/varshneyayushi123/dsa-practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/varshneyayushi123/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshneyayushi123/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | [0268-missing-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/varshneyayushi123/dsa-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/varshneyayushi123/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -75,6 +77,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | ------- |
 | [0268-missing-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/varshneyayushi123/dsa-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -89,6 +92,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 | ------- |
 | [0268-missing-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/varshneyayushi123/dsa-practice/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
