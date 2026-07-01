@@ -6,6 +6,7 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/varshneyayushi123/dsa-practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshneyayushi123/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshneyayushi123/dsa-practice/tree/master/0035-search-insert-position) |
@@ -103,5 +104,6 @@ Java solutions to LeetCode problems are organized by topic for data structures, 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/varshneyayushi123/dsa-practice/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/varshneyayushi123/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
